@@ -1,0 +1,21 @@
+{
+  "name": "Organizador de Receitas",
+  "short_name": "Receitas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#f97316",
+  "description": "Organize suas receitas culinárias de forma fácil e prática.",
+  "icons": [
+    {
+      "src": "https://lucide.dev/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://lucide.dev/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
